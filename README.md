@@ -1,7 +1,7 @@
 # Monitor de Pesquisa
 
 ## Descrição
-Painel para monitorar menções sobre "Inteligência Artificial no Piauí" em notícias públicas, com análise de sentimento e identificação de temas recorrentes.
+Painel para monitorar menções sobre "Inteligência Artificial no Piauí" e etc, em notícias públicas, com análise de sentimento e identificação de temas recorrentes.
 
 ## Estrutura do Projeto
 
