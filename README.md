@@ -1,4 +1,4 @@
-# Monitor de Inteligência Artificial no Piauí
+# Monitor de Pesquisa
 
 ## Descrição
 Painel para monitorar menções sobre "Inteligência Artificial no Piauí" em notícias públicas, com análise de sentimento e identificação de temas recorrentes.
