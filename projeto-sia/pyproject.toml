@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "projeto-sia"
+version = "0.1.0"
+description = "Monitor de Inteligência Artificial no Piauí"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+	"requests",
+	"pandas",
+	"streamlit",
+	"matplotlib",
+	"wordcloud",
+]
+
+[project.scripts]
+collect = "src.cli:main"
+
+[tool.black]
+line-length = 88
